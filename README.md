@@ -1,8 +1,8 @@
 # LIDAR-Segmentation-Based-on-Range-Imag
 
-##### This is a lidar segmentation method based on range-image.
+### This is a lidar segmentation method based on range-image.
 
-##### Method
+### Method
 
 1. The ground remove method was from ["D. Zermas, I. Izzat and N. Papanikolopoulos, "Fast segmentation of 3D point clouds: A paradigm on LiDAR data for autonomous vehicle applications," 2017 IEEE International Conference on Robotics and Automation (ICRA), Singapore, 2017, pp. 5067-5073, doi: 10.1109/ICRA.2017.7989591."](https://ieeexplore.ieee.org/document/7989591)
 
@@ -17,9 +17,13 @@
 6. Thec threshhold method was from ["Borges, G.A., Aldon, MJ. Line Extraction in 2D Range Images for Mobile Robotics. Journal of Intelligent and Robotic Systems 40, 267–297 (2004). https://doi.org/10.1023/B:JINT.0000038945.55712.65"](https://link.springer.com/article/10.1023/B:JINT.0000038945.55712.65#citeas)
 
 
-##### Result
+### Result
+
+ #### Line compenstation
 ![Image text](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Imag/blob/main/image/linecompensation.png)
 
+#### Build range image
 ![Image text](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Imag/blob/main/image/buildrange.png)
 
+#### segmentation
 ![Image text](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Imag/blob/main/image/seg.png)
