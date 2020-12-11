@@ -10,7 +10,7 @@
 
 3. The range image segmentation method was from ["I. Bogoslavskyi and C. Stachniss, "Fast range image-based segmentation of sparse 3D laser scans for online operation," 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Daejeon, 2016, pp. 163-169, doi: 10.1109/IROS.2016.7759050."](https://ieeexplore.ieee.org/document/7759050)
 
-4. The hash table method was inspired by ["Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance"](https://ieeexplore.ieee.org/document/8968026)
+4. The hash table method was inspired by ["S. Park, S. Wang, H. Lim and U. Kang, "Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance," 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Macau, China, 2019, pp. 6459-6464, doi: 10.1109/IROS40897.2019.8968026."](https://ieeexplore.ieee.org/document/8968026)
 
 5. The process of segmentation was inspired by ["K. Klasing, D. Wollherr and M. Buss, "A clustering method for efficient segmentation of 3D laser data," 2008 IEEE International Conference on Robotics and Automation, Pasadena, CA, 2008, pp. 4043-4048, doi: 10.1109/ROBOT.2008.4543832.](https://ieeexplore.ieee.org/document/4543832)
 
