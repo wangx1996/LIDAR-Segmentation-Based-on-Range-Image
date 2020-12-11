@@ -20,7 +20,7 @@
 
 1.The ground remove code references to the https://github.com/AbangLZU/plane_fit_ground_filter. And I change it to multiplane fitting.
 
-2. The process of segmentation references to the https://github.com/FloatingObjectSegmentation/CppRBNN
+2.The process of segmentation references to the https://github.com/FloatingObjectSegmentation/CppRBNN
 
 ### Result
 
