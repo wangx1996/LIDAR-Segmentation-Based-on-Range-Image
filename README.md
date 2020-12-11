@@ -1,5 +1,9 @@
 # LIDAR-Segmentation-Based-on-Range-Imag
 
+[![build passing](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image)
+
+[![veodyne HDL-32E compliant](https://img.shields.io/badge/veodyne HDL-32E-compliant-red.svg?style=flat-square)](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image)
+
 ### This is a lidar segmentation method based on range-image.
 
 ### Method
@@ -22,6 +26,14 @@
 
 2.The process of segmentation references to the https://github.com/FloatingObjectSegmentation/CppRBNN
 
+### Usage
+    
+    mkdir build
+    cd build
+    cmake ..
+    make
+    ./range forange.pcd
+    
 ### Result
 
  #### Line compenstation
