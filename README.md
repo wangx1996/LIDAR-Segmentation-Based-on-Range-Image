@@ -4,7 +4,7 @@
 
 ##### Method
 
-1. The ground remove method was from ["D. Zermas, I. Izzat and N. Papanikolopoulos, "Fast segmentation of 3D point clouds: A paradigm on LiDAR data for autonomous vehicle applications," 2017 IEEE International Conference on Robotics and Automation (ICRA), Singapore, 2017, pp. 5067-5073, doi: 10.1109/ICRA.2017.7989591."][https://ieeexplore.ieee.org/document/7989591]
+1. The ground remove method was from ["D. Zermas, I. Izzat and N. Papanikolopoulos, "Fast segmentation of 3D point clouds: A paradigm on LiDAR data for autonomous vehicle applications," 2017 IEEE International Conference on Robotics and Automation (ICRA), Singapore, 2017, pp. 5067-5073, doi: 10.1109/ICRA.2017.7989591."](https://ieeexplore.ieee.org/document/7989591)
 
 2. The scan line compensation method was from ["P. Burger and H. Wuensche, "Fast Multi-Pass 3D Point Segmentation Based on a Structured Mesh Graph for Ground Vehicles," 2018 IEEE Intelligent Vehicles Symposium (IV), Changshu, 2018, pp. 2150-2156, doi: 10.1109/IVS.2018.8500552."][https://ieeexplore.ieee.org/document/8500552]
 
