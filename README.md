@@ -16,6 +16,11 @@
 
 6. Thec threshhold method was from ["Borges, G.A., Aldon, MJ. Line Extraction in 2D Range Images for Mobile Robotics. Journal of Intelligent and Robotic Systems 40, 267–297 (2004). https://doi.org/10.1023/B:JINT.0000038945.55712.65"](https://link.springer.com/article/10.1023/B:JINT.0000038945.55712.65#citeas)
 
+### Code
+
+1.The ground remove code references to the https://github.com/AbangLZU/plane_fit_ground_filter. And I change it to multiplane fitting.
+
+2. The process of segmentation references to the https://github.com/FloatingObjectSegmentation/CppRBNN
 
 ### Result
 
