@@ -1,8 +1,8 @@
 # LIDAR-Segmentation-Based-on-Range-Imag
 
-[![build passing](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image)
+[![build passing](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image)
 
-[![veodyne HDL-32E compliant](https://img.shields.io/badge/veodyne HDL-32E-compliant-red.svg?style=flat-square)](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image)
+[![veodyne_HDL_32E compliant](https://img.shields.io/badge/veodyne_HDL_32E-compliant-red.svg)](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image)
 
 ### This is a lidar segmentation method based on range-image.
 
