@@ -20,6 +20,9 @@
 
 6. Thec threshhold method is from ["Borges, G.A., Aldon, MJ. Line Extraction in 2D Range Images for Mobile Robotics. Journal of Intelligent and Robotic Systems 40, 267–297 (2004). https://doi.org/10.1023/B:JINT.0000038945.55712.65"](https://link.springer.com/article/10.1023/B:JINT.0000038945.55712.65#citeas)
 
+more detail： https://blog.csdn.net/weixin_43885544/article/details/111193386
+
+
 ### Code
 
 1.The ground remove code references to the https://github.com/AbangLZU/plane_fit_ground_filter. And I change it to multiplane fitting.
