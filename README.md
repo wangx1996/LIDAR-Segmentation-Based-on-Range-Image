@@ -4,9 +4,9 @@
 
 [![veodyne_HDL_32E compliant](https://img.shields.io/badge/veodyne_HDL_32E-compliant-red.svg)](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image)
 
-### This is a lidar segmentation method based on range-image.
+## This is a lidar segmentation method based on range-image.
 
-### Method
+## Method
 
 1. The ground remove method is from ["D. Zermas, I. Izzat and N. Papanikolopoulos, "Fast segmentation of 3D point clouds: A paradigm on LiDAR data for autonomous vehicle applications," 2017 IEEE International Conference on Robotics and Automation (ICRA), Singapore, 2017, pp. 5067-5073, doi: 10.1109/ICRA.2017.7989591."](https://ieeexplore.ieee.org/document/7989591)
 
@@ -20,16 +20,18 @@
 
 6. Thec threshhold method is from ["Borges, G.A., Aldon, MJ. Line Extraction in 2D Range Images for Mobile Robotics. Journal of Intelligent and Robotic Systems 40, 267–297 (2004). https://doi.org/10.1023/B:JINT.0000038945.55712.65"](https://link.springer.com/article/10.1023/B:JINT.0000038945.55712.65#citeas)
 
-more detail： https://blog.csdn.net/weixin_43885544/article/details/111193386
+##### more detail： 
+
+https://blog.csdn.net/weixin_43885544/article/details/111193386
 
 
-### Code
+## Code
 
 1.The ground remove code references to the https://github.com/AbangLZU/plane_fit_ground_filter. And I change it to multiplane fitting.
 
 2.The process of segmentation references to the https://github.com/FloatingObjectSegmentation/CppRBNN
 
-### Usage
+## Usage
     
     mkdir build
     cd build
@@ -37,13 +39,13 @@ more detail： https://blog.csdn.net/weixin_43885544/article/details/111193386
     make
     ./range forange.pcd
     
-### Result
+## Result
 
- #### Line compenstation
+### Line compenstation
 ![Image text](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Imag/blob/main/image/linecompensation.png)
 
-#### Build range image
+### Build range image
 ![Image text](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Imag/blob/main/image/buildrange.png)
 
-#### segmentation
+### segmentation
 ![Image text](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Imag/blob/main/image/seg.png)
